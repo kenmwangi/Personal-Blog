@@ -17,7 +17,7 @@ export default function Layout({ children, title, keywords, description }) {
   );
 }
 
-Layout.defaultprops = {
+Layout.defaultProps = {
   title: 'Home | Ken Mwangi',
   keywords: 'personal, blog, nextjs, SEO, fullstack, developer',
   description:

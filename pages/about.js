@@ -1,3 +1,5 @@
+import Layout from '@/components/Layout';
+
 export default function AboutPage() {
-  return <div>AboutPage</div>;
+  return <Layout title="About | Ken Mwangi">AboutPage</Layout>;
 }
